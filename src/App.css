@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+.App {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+.cards{
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+  margin: 150px auto;
+}
+.link{
+  text-decoration: none;
+  margin-right: 10px;
+  color: white;
+}
+.link:hover{
+  color: white;
+}
