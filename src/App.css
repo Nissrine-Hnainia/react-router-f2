@@ -3,17 +3,20 @@
   text-align: center;
   font-family: 'Raleway', sans-serif;
 }
-.cards{
-  display: flex;
-  width: 80%;
-  justify-content: space-between;
+.d-flex{
+  width: 70%;
   margin: 150px auto;
 }
-.link{
-  text-decoration: none;
-  margin-right: 10px;
-  color: white;
+.cards {
+  display: flex;
+  justify-content: space-around;
 }
-.link:hover{
+.form {
+  width: 80%;
+  margin: 120px auto;
+}
+.link {
+  margin-right: 10px;
+  text-decoration: none;
   color: white;
 }
